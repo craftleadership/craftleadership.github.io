@@ -2,7 +2,7 @@
 layout: page
 title: Pairing
 permalink: /teamwork/pairing/
-category: teamwork
+category: homepage
 slug: Why won't the team pair up? Should they even?
 author: michael
 ---
