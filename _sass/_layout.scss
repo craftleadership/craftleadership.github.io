@@ -10,52 +10,19 @@
     position: relative;
 }
 
+.site-title {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 56px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
 
-
-.logo {
-  font-family: monospace;
-  letter-spacing: -0.05em;
-
-  .sep {
-      color: $grey-color-dark;
-      margin-right: -0.5em;
-  }
-
-  .craft {
-      letter-spacing: -0.13em;
-  }
-}
-
-#logo-big-container {
-  font-size: 3.2em;
-  text-align: center;
-  line-height: 0.9;
-}
-#logo-small-container {
-  font-size: 1.4em;
-  text-align: center;
-  float: left;
-  margin-bottom: 0;
-  line-height: 56px;
-
-  a {
-    color: black;
     &,
     &:visited {
         color: $grey-color-dark;
     }
-  }
-
 }
-
-.landing-site-description {
-  font-size: 1.7em;
-  text-align: center;
-  font-style: italic;
-  margin: 1.4em;
-  line-height: 1em;
-}
-
 
 .site-nav {
     float: right;
@@ -193,7 +160,6 @@
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
-
 }
 
 
