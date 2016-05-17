@@ -1,0 +1,14 @@
+title: Craft + Leadership
+tag_text: Craft + Leadership
+description: >
+  Field notes for software engineering leaders who want to improve the craft of
+  building software as well as their craft of leadership.
+url: "http://craftleadership.org"
+baseurl: ""
+
+font-awesome-include: true
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md","drafts/"]
