@@ -11,4 +11,4 @@ font-awesome-include: true
 # Build settings
 markdown: kramdown
 
-exclude: ["README.md","drafts/"]
+exclude: ["README.md","_drafts/"]
