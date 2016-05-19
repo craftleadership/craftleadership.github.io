@@ -4,7 +4,7 @@ title:  "Reading list for May 18, 2016"
 date:   2016-05-18 06:46:35 -0700
 categories: reading
 author: michael
-excerpt: Solid advice for coaching your engineers as they face the mental demons standing between them and their code; code reviews as cultural bionic hammers, or why and how pre-commit code reviews matter to your culture
+excerpt: Solid advice for coaching your engineers as they face the **mental demons standing between them and their code**; code reviews as **cultural bionic hammers**, or why and how pre-commit code reviews matter to your culture
 ---
 
 [SE Daily](http://softwareengineeringdaily.com/) turned me on to a wonderful little article from Tomek Rusilko ([@rusilko](https://twitter.com/rusilko)) at [Lunar Logic](http://www.lunarlogic.io/) - a boutique dev shop out of Krakow - to help engineers deal with the daily mental demons we all face and that can crush our ability to contribute. As a leader of the craft, it's ***awesome advice to always keep in your back pocket when you need to coach the team***:
