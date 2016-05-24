@@ -4,4 +4,4 @@ Welcome to our Github repo. We could use your help, whether you want to be part 
 
 Fork us.
 
-Built using the [Good Clean Read](https://adueck.github.io/good-clean-read) template
+Built using the [Good Clean Read](https://adueck.github.io/good-clean-read) template ([on github here](https://github.com/adueck/good-clean-read)).
