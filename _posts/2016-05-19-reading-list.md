@@ -4,7 +4,7 @@ title:  "Reading list for May 19, 2016"
 date:   2016-05-19 08:15:35 -0700
 categories: reading
 author: michael
-excerpt: want to be a manager? **people, people, people**; also, why it's crucial to only hire and **then trust those people to do their best work** -- *or fire them*
+excerpt: Want to be a manager? **People, people, people**; also, why it's crucial to only hire and **then trust those people to do their best work** -- *or fire them*
 ---
 
 [Julie Zhuo's Medium](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b) offers new managers some insightful advice from her last seven years in the tech business. While it's an uncomfortable fact to software engineers who expect success to be == a passing unit test, management is a "certain kind of black art with no hard and fast rules." It can take a long time for the unit test of management to turn green, but a manager's success "eventually emerges *clear as daylight*."
