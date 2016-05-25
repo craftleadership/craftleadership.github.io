@@ -4,7 +4,7 @@ title:  "Reading list for May 20, 2016 (tgif)"
 date:   2016-05-20 12:00:00 -0700
 categories: reading
 author: michael
-excerpt: leadership lessons from a dancing guy
+excerpt: Leadership lessons from a dancing guy (weekend fun edition)
 ---
 
 ![Dancing lessons from a dancing guy](/imgs/2016-05-22-dancing-guy.png)

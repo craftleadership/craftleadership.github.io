@@ -4,7 +4,7 @@ title:  "Reading list for May 23, 2016 (tgim)"
 date:   2016-05-23 07:30:00 -0700
 categories: reading
 author: michael
-excerpt: how to hire an engineering manager, or put differently, how to hire a unicorn
+excerpt: How to hire an engineering manager, or put differently, how to hire a unicorn
 ---
 
 Writing for O'Reilly, Camille Fournier ([@skamille](https://twitter.com/skamille)) warns that most organizations are going to fail at hiring engineering managers because in too many cases they're looking to **hire unicorns**. But there *are* tactics and opportunities to get it right:
