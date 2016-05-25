@@ -4,7 +4,7 @@ layout: default
 
 ## {{ site.description }}
 
-### Coming Summer 2016 <i class="fa fa-volume-up" aria-hidden="true"></i>
+### Podcasting This Summer 2016 <i class="fa fa-volume-up" aria-hidden="true"></i>
 
 Craft + Leadership will (if we can get enough love and content) be a podcast, blog, and library of useful information for software engineering managers.
 
@@ -26,4 +26,4 @@ Want to get involved? You can add your own articles or content or whatever by [f
 
 We're now on Twitter [@craftleadership <i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/craftleadership)
 
-Want to join a conversation / interview on a podcast? Send Michael an email at [me@michaelrice.com](mailto:me@michaelrice.com).
+Want to join a conversation, suggest something for the reading list, or get an interview on a podcast? Send Michael an email at [me@michaelrice.com](mailto:me@michaelrice.com).
