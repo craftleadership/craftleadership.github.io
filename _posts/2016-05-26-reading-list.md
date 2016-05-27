@@ -4,7 +4,7 @@ title:  "Reading list for May 26, 2016"
 date:   2016-05-26 12:11:00 -0700
 categories: reading
 author: michael
-excerpt: We might a **bias blind spot** if we believe that only people who actively participate in open source after hours "are passionate and/or good developers"
+excerpt: We might have a **bias blind spot** if we believe that only people who actively participate in open source after hours "are passionate and/or good developers"
 ---
 
 [Belen Albeza ](http://www.belenalbeza.com/) ([@ladybenko](https://twitter.com/ladybenko))  suggests that we have a bias or least a blind spot to a bias when we, as leaders, assume that top developers have to exhibit their passion for software engineering by their outside activities:
