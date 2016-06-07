@@ -4,7 +4,7 @@ layout: default
 
 ## {{ site.description }}
 
-### Are You An Engineering Manager? Join Us
+### You're an Engineering Manager? Join Us
 
 We're assembling a private network of engineering managers and directors of engineering. Right now, it's just a mailing list but look for future **happy hours and presentation opportunities** (hopefully starting Fall 2016). Membership is of course free, but we do want you to apply.
 
